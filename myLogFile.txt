@@ -1,0 +1,14 @@
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [8, 9, 3, 7, 2, 3, 5, 17]
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [8, 3, 7, 2, 3, 5, 9, 17]
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [3, 7, 2, 3, 5, 8, 9, 17]
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [3, 2, 3, 5, 7, 8, 9, 17]
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [2, 3, 3, 5, 7, 8, 9, 17]
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [2, 3, 3, 5, 7, 8, 9, 17]
+мар. 12, 2023 7:17:37 PM sem2.BubbleSort main
+INFO: [2, 3, 3, 5, 7, 8, 9, 17]
